@@ -10,7 +10,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 > Assignment prompt is found in [Module_14_Challenge_Assignment.pdf](/Module_14_Challenge_Assignment.pdf).
 
 ## Unfinished Project. Planning to resubmit when done.
-I started working on the code in [app.js](/static/js/app.js) but haven't finished.
+I started working on the code in [app.js](/static/js/app.js) but haven't finished.  
+Was able to load the json:  
+![screenshot of loaded console](/readme_files/screenshot_console.png)
 
 # Resources
 - https://plotly.com/javascript/horizontal-bar-charts/
