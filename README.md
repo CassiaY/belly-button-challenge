@@ -10,3 +10,16 @@ The dataset reveals that a small handful of microbial species (also called opera
 > Assignment prompt is found in [Module_14_Challenge_Assignment.pdf](/Module_14_Challenge_Assignment.pdf).
 
 ## Unfinished Project. Planning to resubmit when done.
+I started working on the code in [app.js](/static/js/app.js) but haven't finished.
+
+# Resources
+- https://plotly.com/javascript/horizontal-bar-charts/
+- https://plotly.com/javascript/dropdowns/
+- 
+- Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+
+# Acknowledgements
+I wish to thank our teaching staff:
+- Hunter Hollis
+- Sam Espe
+- Randy Sendek
