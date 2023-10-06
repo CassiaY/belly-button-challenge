@@ -13,6 +13,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 I started working on the code in [app.js](/static/js/app.js) but haven't finished.  
 Was able to load the json:  
 ![screenshot of loaded console](/readme_files/screenshot_console.png)
+Also, the successfully deployed the static page from github: https://cassiay.github.io/belly-button-challenge/
 
 # Resources
 - https://plotly.com/javascript/horizontal-bar-charts/
